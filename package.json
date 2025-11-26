@@ -2,7 +2,7 @@
   "name": "goit-react-hw-07-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jmoanes1.github.io/goit-react-hw-06-phonebook",
+  "homepage": "https://jmoanes1.github.io/goit-react-hw-07-phonebook",
   "dependencies": {
     "@reduxjs/toolkit": "^2.10.1",
     "@testing-library/jest-dom": "^5.16.3",
